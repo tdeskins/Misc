@@ -27,7 +27,7 @@ public class CF339A_HelpfulMaths
 		{
 			int k = arr[i];
 			int j = i-1;
-			while (arr[j] > k && j>=0)
+			while (j>=0 && arr[j] > k)
 			{
 				arr[j+1] = arr[j];
 				j = j - 1;
