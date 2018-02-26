@@ -1,15 +1,15 @@
-/* Input: one line, non-empty string s. This is a sum of numbers ranging from 1 to 3. String s is at most 100 characters long and contains only digits and '+'.
-
-Output: a sorted string of the summation.
-
-Example: 	input:	3+2+1+2
-		output:	1+2+2+3
+/** Input: one line, non-empty string s. This is a sum of numbers ranging from 1 to 3. String s is at most 100 characters long and contains only digits and '+'.
+*
+*Output: a sorted string of the summation.
+*
+*Example: 	input:	3+2+1+2
+*		output:	1+2+2+3
 */
 
 
 import java.util.*;
 import java.io.*;
-class CF339A_HelpfulMaths
+public class CF339A_HelpfulMaths
 {
 	static void printArray(int arr[])
 	{
@@ -38,8 +38,8 @@ class CF339A_HelpfulMaths
 	public static void main(String[] args)
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Input: one line, non-empty string s. This is a sum of numbers ranging from 1 to 3. String s is at most 100 characters long and contains only digits and '+'");
-		System.out.print("Input:	");
+//		System.out.println("Input: one line, non-empty string s. This is a sum of numbers ranging from 1 to 3. String s is at most 100 characters long and contains only digits and '+'");
+//		System.out.print("Input:	");
 		String input = sc.nextLine();
 		
 		// Read in the string and split into a character array list
@@ -82,6 +82,6 @@ class CF339A_HelpfulMaths
 		{
 			sb.append(it.next());
 		}
-		System.out.println("Output:	" + sb.toString());
+		System.out.println(sb.toString());
 	}
 }
