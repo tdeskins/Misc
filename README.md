@@ -4,8 +4,8 @@ This repository contains my solutions to various problem sets.
 ## Project Euler
 |  Exercise | Methods and Remarks|
 | ------------- |:-------------:| 
-|   <a href="https://projecteuler.net/problem=1">Problem #1</a>       |  brute force, resolved more efficiently using euclid's algorithm |
-|     <a href="https://projecteuler.net/problem=2">Problem #2</a>            |  |   
+|   <a href="https://projecteuler.net/problem=1">Problem #1</a> | brute force, re-solved more efficiently using euclid's algorithm |
+|     <a href="https://projecteuler.net/problem=2">Problem #2</a>|  |   
 
 ## CodeForces
 |  Exercise | Methods and Remarks|
