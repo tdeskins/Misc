@@ -11,8 +11,7 @@ This repository contains my solutions to various problem sets.
 |  Exercise | Methods and Remarks|
 | ------------- |:-------------:| 
 |   <a href="http://codeforces.com/problemset/problem/118/A">Problem 188A</a>       |  implementation, strings |
-|     <a href="http://codeforces.com/problemset/problem/339/A">Problem 339A</a>            |  greedy, implementation, sortings, strings
-  |   
+|     <a href="http://codeforces.com/problemset/problem/339/A">Problem 339A</a> |  greedy, implementation, sortings, strings|
 
 
 ### Links to Problem Sets
