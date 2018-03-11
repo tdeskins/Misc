@@ -1,2 +1,5 @@
-# Misc
-This repository contains miscellaneous files
+# Miscellaneous
+This repository contains my solutions to various problem sets.
+### Problem Sets
+* Project Euler
+* CodeForces
