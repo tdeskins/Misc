@@ -1,3 +1,5 @@
+package codeforces;
+
 /** Input: one line, non-empty string s. This is a sum of numbers ranging from 1 to 3. String s is at most 100 characters long and contains only digits and '+'.
 *
 *Output: a sorted string of the summation.
