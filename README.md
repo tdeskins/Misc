@@ -10,6 +10,7 @@ This repository contains my solutions to various problem sets.
 ## CodeForces
 |  Exercise | Methods and Remarks| Solution |
 | ------------- |:-------------:|:----:|
+|<a href="http://codeforces.com/problemset/problem/1/A">Problem 1A</a>|math|<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF1A_TheatreSquare.java">[X]</a>|
 |<a href="http://codeforces.com/problemset/problem/4/C">Problem 4C</a>|data structures, hashing, implementation|<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF4C_RegistrationSystem.java">[X]</a>|
 |   <a href="http://codeforces.com/problemset/problem/118/A">Problem 188A</a>       |  implementation, strings |<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF118A_StringTask.java">[X]</a>|
 |     <a href="http://codeforces.com/problemset/problem/339/A">Problem 339A</a> |  greedy, implementation, sortings, strings|<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF339A_HelpfulMaths.java">[X]</a>|
