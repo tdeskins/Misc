@@ -4,8 +4,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class CF118B_XeniaAndRingroad {
-	public static CF118B_XeniaAndRingroad ex;
+public class CF339B_XeniaAndRingroad {
+	public static CF339B_XeniaAndRingroad ex;
 
 	// h is the starting location at Xenia's house
 	private final int h = 1;
@@ -33,7 +33,7 @@ public class CF118B_XeniaAndRingroad {
 	 * OUTPUT: one integer: t (time it takes to complete all tasks)
 	 -----------------------------------*/
 
-	private CF118B_XeniaAndRingroad() {
+	private CF339B_XeniaAndRingroad() {
 		Scanner sc = new Scanner(System.in);
 		this.n = sc.nextInt();
 		this.m = sc.nextInt();
@@ -73,6 +73,6 @@ public class CF118B_XeniaAndRingroad {
 	}
 
 	public static void main(String[] args) {
-		ex = new CF118B_XeniaAndRingroad();
+		ex = new CF339B_XeniaAndRingroad();
 	}
 }

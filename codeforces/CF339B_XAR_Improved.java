@@ -2,8 +2,8 @@ package codeforces;
 
 import java.util.Scanner;
 
-public class CF118B_XAR_Improved {
-	public static CF118B_XAR_Improved ex;
+public class CF339B_XAR_Improved {
+	public static CF339B_XAR_Improved ex;
 
 	// starting location at Xenia's house, n =1
 	// n number of houses, 2<=n<=1E5
@@ -16,7 +16,7 @@ public class CF118B_XAR_Improved {
 	 * OUTPUT: one integer: t (time it takes to complete all tasks)
 	 -----------------------------------*/
 	
-	private CF118B_XAR_Improved() {
+	private CF339B_XAR_Improved() {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		int m = sc.nextInt();
@@ -39,6 +39,6 @@ public class CF118B_XAR_Improved {
 	}
 
 	public static void main(String[] args) {
-		ex = new CF118B_XAR_Improved();
+		ex = new CF339B_XAR_Improved();
 	}
 }
