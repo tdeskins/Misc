@@ -8,12 +8,11 @@ This repository contains my solutions to various problem sets.
 |     <a href="https://projecteuler.net/problem=2">Problem #2</a>||<a href="https://github.com/tdeskins/misc/blob/master/projecteuler/e2.java">[X]</a>|   
 
 ## CodeForces
-|  Exercise | Methods and Remarks|
-| ------------- |:-------------:| 
-|   <a href="http://codeforces.com/problemset/problem/118/A">Problem 188A</a>       |  implementation, strings |
-|     <a href="http://codeforces.com/problemset/problem/339/A">Problem 339A</a> |  greedy, implementation, sortings, strings|
-| <a href="http://codeforces.com/contest/339/problem/B">Problem 339B</a> | implementation, re-solved more efficiently using distance|
-
+|  Exercise | Methods and Remarks| Solution |
+| ------------- |:-------------:|:----:|
+|   <a href="http://codeforces.com/problemset/problem/118/A">Problem 188A</a>       |  implementation, strings |<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF118A_StringTask.java">[X]</a>|
+|     <a href="http://codeforces.com/problemset/problem/339/A">Problem 339A</a> |  greedy, implementation, sortings, strings|<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF339A_HelpfulMaths.java">[X]</a>|
+| <a href="http://codeforces.com/contest/339/problem/B">Problem 339B</a> | implementation, re-solved more efficiently using distance|<a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF118B_XeniaAndRingroad.java">[X], </a><a href="https://github.com/tdeskins/misc/blob/master/codeforces/CF118B_XAR_Improved.java">[X]</a>|
 
 ### Links to Problem Sets
 * [Project Euler](https://projecteuler.net/archives)
