@@ -1,4 +1,4 @@
-# Miscellaneous
+# Problem Sets
 This repository contains solutions to various exercises in problem sets.
 </br>
 Most of these solutions are linked to my <a href="https://a2oj.com/profile?Username=tdeskins">centralized coder profile hosted by A<sup>2</sup> Online Judge</a>.
